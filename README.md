@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio! This repository serves as a central hub f
 
 ## 📌 About Me
 
-I'm an aspiring cybersecurity professional with backgrounds in IT Service Desk and NOC Administration. I am always curious and enthusiastic about data and information security and the foundations behind them. I always think about the strings behind how it works and the means to stop and reduce security breach, denial of service and digital human exploitation. This portfolio is where I document my hands-on practice and continuous learning.
+I'm an aspiring cybersecurity professional with backgrounds in Customer Support, Content Moderation, IT Service Desk, and NOC Administration. I am always curious and enthusiastic about data and information security and the foundations behind them. I always think about the strings behind how it works and the means to stop and reduce security breach, denial of service and digital human exploitation. This portfolio is where I document my hands-on practice and continuous learning.
 
 ---
 
