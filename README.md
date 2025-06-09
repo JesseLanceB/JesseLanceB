@@ -8,7 +8,7 @@ Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professiona
 
 | Project | Description | Tools/Skills |
 |--------|-------------|--------------|
-| [Malware Analysis](./Projects/Malware-Analysis) | Static and dynamic analysis of sample malware | x64dbg, Wireshark, Ghidra |
+| [Security Audit](./Projects/Security-Audit) | Conducted an internal security audit within the Google Cybersecurity Certification  | Vulnerability assessment, Regulatory Compliance |
 | [Vulnerability Scanner](./Projects/Vulnerability-Scanner) | Custom-built network scanner using Python | Nmap, Scapy |
 | [Web App Pentest](./Projects/Web-App-Pentest) | Report and scripts from testing DVWA, Juice Shop | Burp Suite, OWASP ZAP |
 
