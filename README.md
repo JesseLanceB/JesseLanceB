@@ -1,69 +1,60 @@
 # 🛡️ Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository serves as a central hub for my journey in the field of cybersecurity, including projects, labs, certifications, writeups, and learning notes.
+Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professional with hands-on experience in penetration testing, malware analysis, and scripting tools to automate security tasks. This GitHub repo highlights my journey, projects, and achievements in the world of cybersecurity.
 
 ---
 
-## 📌 About Me
+## 📂 Featured Projects
 
-I'm an aspiring cybersecurity professional with backgrounds in Customer Support, Content Moderation, IT Service Desk, and NOC Administration. I am always curious and enthusiastic about data and information security and the foundations behind them. I always think about the strings behind how it works and the means to stop and reduce security breach, denial of service and digital human exploitation. This portfolio is where I document my hands-on practice and continuous learning.
-
----
-
-## 🧪 Labs & Challenges
-
-- **[TryHackMe](./Labs/TryHackMe/)**: Rooms completed with personal notes and walkthroughs.
-- **[HackTheBox](./Labs/HackTheBox/)**: Writeups (retired machines only).
-- **[VulnHub](./Labs/VulnHub/)**: Boot2Root machine solutions.
+| Project | Description | Tools/Skills |
+|--------|-------------|--------------|
+| [Malware Analysis](./Projects/Malware-Analysis) | Static and dynamic analysis of sample malware | x64dbg, Wireshark, Ghidra |
+| [Vulnerability Scanner](./Projects/Vulnerability-Scanner) | Custom-built network scanner using Python | Nmap, Scapy |
+| [Web App Pentest](./Projects/Web-App-Pentest) | Report and scripts from testing DVWA, Juice Shop | Burp Suite, OWASP ZAP |
 
 ---
 
-## 🔐 Projects
+## 🧠 Skills & Tools
 
-- **Log4Shell Mitigation** – Detection & patch automation.
-- **SIEM Dashboard** – ELK stack-based SIEM with real-time alerts.
-- **Phishing Email Classifier** – ML project detecting phishing emails.
-
----
-
-## 🎓 Certifications
-
-- CompTIA Security+
-- Certified Ethical Hacker (CEH)
-
-> See [`/Certifications`](./Certifications/) for verification and study notes.
+- **Pentesting**: Burp Suite, OWASP ZAP, Nmap, Metasploit
+- **Scripting**: Python, Bash, PowerShell
+- **Reverse Engineering**: Ghidra, x64dbg, IDA Free
+- **Monitoring & Analysis**: Wireshark, ELK Stack
+- **OS & Platforms**: Kali Linux, Windows, Ubuntu, Active Directory
 
 ---
 
-## 🛠️ Tools & Scripts
+## 🏆 Certifications
 
-- Python and Bash tools for recon, automation, and log parsing.
+- [x] CompTIA Security+
+- [x] CEH (Certified Ethical Hacker)
+- [ ] OSCP *(in progress)*
+
+> See [`Certifications/`](./Certifications) for PDFs and validation links.
 
 ---
 
 ## ✍️ Writeups
 
-Detailed walkthroughs for machines and challenges.
+- [TryHackMe](./Writeups/TryHackMe)
+- [HackTheBox](./Writeups/HackTheBox)
+- [CTF Challenges](./Writeups/CTFs)
 
 ---
 
-## 📚 Learning Notes
+## 📚 Learning Resources
 
-Notes categorized by topic:
-- Networking
-- Linux/Windows Security
-- Threat Hunting
-- Tools (Nmap, Wireshark, Burp Suite, etc.)
+- [My Learning Path](./Resources/Learning-Path.md)
+- [Top Cybersecurity Books](./Resources/Books.md)
+- [Awesome Cybersecurity Links](./Resources/Awesome-Links.md)
 
 ---
 
-## 📎 Resources
+## 📫 Contact
 
-- Best books, courses, and free labs listed in [`Resources`](./Resources/).
+- LinkedIn: [your-linkedin](https://linkedin.com/in/yourname)
+- Email: you@example.com
 
 ---
 
-## 📬 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- Email: yourname@example.com
+> 🔐 *“Cybersecurity is much more than a matter of IT.” – Stephane Nappo*
