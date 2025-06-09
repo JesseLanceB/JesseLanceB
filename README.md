@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professiona
 
 | Project | Description | Tools/Skills |
 |--------|-------------|--------------|
-| [Security Audit](https://github.com/JesseLanceB/JesseLanceB/blob/main/Security%20Audit) | Conducted an internal security audit within the Google Cybersecurity Certification  | Vulnerability assessment, Regulatory Compliance |
+| [Security Audit](README.md) | Conducted an internal security audit within the Google Cybersecurity Certification  | Vulnerability assessment, Regulatory Compliance |
 | [Vulnerability Scanner](./Projects/Vulnerability-Scanner) | Custom-built network scanner using Python | Nmap, Scapy |
 | [Web App Pentest](./Projects/Web-App-Pentest) | Report and scripts from testing DVWA, Juice Shop | Burp Suite, OWASP ZAP |
 
