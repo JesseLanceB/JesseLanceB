@@ -1,7 +1,6 @@
 # 🛡️ Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professional with hands-on experience in penetration testing, malware analysis, and scripting tools to automate security tasks. This GitHub repo highlights my journey, projects, and achievements in the world of cybersecurity.
-
+Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professional with backgrounds in Customer Support, Content Moderation, IT Service Desk, and NOC Administration. I am always curious and enthusiastic about data and information security and the foundations behind them. I always think about the strings behind how it works and the means to stop and reduce security breach, denial of service and digital human exploitation. This portfolio is where I document my hands-on practice and continuous learning.
 ---
 
 ## 📂 Featured Projects
