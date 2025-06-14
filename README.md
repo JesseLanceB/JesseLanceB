@@ -8,18 +8,17 @@ Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professiona
 | Project | Description | Tools/Skills |
 |--------|-------------|--------------|
 | [Security Audit](https://github.com/JesseLanceB/Security-Audit) | Conducted an internal security audit within the Google Cybersecurity Certification  | Vulnerability assessment, Regulatory Compliance |
-| [Vulnerability Scanner](./Projects/Vulnerability-Scanner) | Custom-built network scanner using Python | Nmap, Scapy |
-| [Web App Pentest](./Projects/Web-App-Pentest) | Report and scripts from testing DVWA, Juice Shop | Burp Suite, OWASP ZAP |
+
 
 ---
 
 ## 🧠 Skills & Tools
 
-- **Pentesting**: Burp Suite, OWASP ZAP, Nmap, Metasploit
-- **Scripting**: Python, Bash, PowerShell
-- **Reverse Engineering**: Ghidra, x64dbg, IDA Free
-- **Monitoring & Analysis**: Wireshark, ELK Stack
-- **OS & Platforms**: Kali Linux, Windows, Ubuntu, Active Directory
+- **Ticketing System**: JIRA, ServiceNow
+- **Cybersecurity**: Security Audit, Incident Report Analysis
+- **Service Desk Specialist**: Equipment deployment assessment, Troubleshooting, VPN Configuration.
+- **NOC, Monitoring, Analysis**: Splunk, CheckMK, Azure, AWS, AnthillPro, TeamCity, Cloudwatch, Shinken, IAM.
+- **OS & Platforms**: Windows, Ubuntu, Active Directory, MacOS, CentOS
 
 ---
 
