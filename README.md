@@ -8,7 +8,7 @@ Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professiona
 | Project | Description | Tools/Skills |
 |--------|-------------|--------------|
 | [Security Audit](https://github.com/JesseLanceB/Security-Audit) | Conducted an internal security audit within the Google Cybersecurity Certification  | Vulnerability assessment, Regulatory Compliance |
-
+| [Incident Response Analysis](https://github.com/JesseLanceB/Incident-Report-Analysis/blob/main/README.md) | Google Cybersecurity Certification Portfolio activity  | Root Cause Analysis, Data Analysis and Visualization|
 
 ---
 
