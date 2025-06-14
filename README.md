@@ -25,34 +25,20 @@ Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professiona
 
 ## 🏆 Certifications
 
-- [x] CompTIA Security+
-- [x] CEH (Certified Ethical Hacker)
-- [ ] OSCP *(in progress)*
-
-> See [`Certifications/`](./Certifications) for PDFs and validation links.
+- [x] [Cybersecurity Essentials by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/a0f381e7c9831f3341eebc0b51c864b734073da82f2bc42b78fab1b9a31eae77?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BiUPiSHAgSzmc%2B8o0NJ4sZQ%3D%3D)
+- [x] [IBM IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/SZGMZ7B7A238)
+- [ ] Google Cybersecurity Professional Certificate *(in progress)*
 
 ---
 
-## ✍️ Writeups
 
-- [TryHackMe](./Writeups/TryHackMe)
-- [HackTheBox](./Writeups/HackTheBox)
-- [CTF Challenges](./Writeups/CTFs)
-
----
-
-## 📚 Learning Resources
-
-- [My Learning Path](./Resources/Learning-Path.md)
-- [Top Cybersecurity Books](./Resources/Books.md)
-- [Awesome Cybersecurity Links](./Resources/Awesome-Links.md)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourname)
-- Email: you@example.com
+- LinkedIn: [Jesse Lance Barreto](https://www.linkedin.com/in/jesse-lance-barreto-b036b0123/)
+- Email: barretojesselance3027@gmail.com
 
 ---
 
