@@ -19,7 +19,7 @@ Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professiona
 - **Cybersecurity**: Security Audit, Incident Report Analysis
 - **Service Desk Specialist**: Equipment deployment assessment, Troubleshooting, VPN Configuration.
 - **NOC, Monitoring, Analysis**: Splunk, CheckMK, Azure, AWS, AnthillPro, TeamCity, Cloudwatch, Shinken, IAM.
-- **OS & Platforms**: Windows, Ubuntu, Active Directory, MacOS, CentOS
+- **OS & Platforms**: Windows, Ubuntu, Active Directory, MacOS, CentOS, Linux.
 
 ---
 
