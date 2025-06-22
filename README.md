@@ -11,6 +11,7 @@ Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity professiona
 | [Incident Response Analysis](https://jesselanceb.github.io/Incident-Report-Analysis/) | Google Cybersecurity Certification Portfolio activity  | Root Cause Analysis, Data Analysis and Visualization|
 | [Permission Management in Linux](https://jesselanceb.github.io/Permission-management-in-Linux/) | Google Cybersecurity Certification Portfolio activity  | Root Cause Analysis, Data Analysis and Visualization|
 | [Apply Filters to SQL queries](https://jesselanceb.github.io/Apply-Filters-to-SQL-queries/) | Google Cybersecurity Certification Portfolio activity  | Data Analysis, SQL, Data Gathering|
+| [Vulnerability Assessment](https://jesselanceb.github.io/Vulnerability-Assessment/) | Google Cybersecurity Certification Portfolio activity  | Data Analysis, , Risk Assessment|
 
 ---
 
